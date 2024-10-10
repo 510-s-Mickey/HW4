@@ -1,8 +1,9 @@
 ![Static Badge](https://img.shields.io/badge/language-python-blue) 
 ![Static Badge](https://img.shields.io/badge/bsd-2-clause)
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue)
-[![codecov](https://codecov.io/gh/510-s-Mickey/HW4/graph/badge.svg?token=A58M5W2749)](https://codecov.io/gh/510-s-Mickey/HW4)
-![Python application](https://github.com/510-s-Mickey/HW4/actions/workflows/python-app.yml/badge.svg)
+[![autopep8](https://github.com/510-s-Mickey/HW2/actions/workflows/autopep8.yml/badge.svg)](https://github.com/510-s-Mickey/HW2/blob/main/post_traces/autopep8_trace.txt)
+[![pylint](https://github.com/510-s-Mickey/HW2/actions/workflows/pylint.yml/badge.svg)](https://github.com/510-s-Mickey/HW2/blob/main/post_traces/pylint_trace.txt)
+[![flake8](https://github.com/510-s-Mickey/HW2/actions/workflows/flake8.yml/badge.svg)](https://github.com/510-s-Mickey/HW2/blob/main/post_traces/autopep8_trace.txt)
 
 
 
